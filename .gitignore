@@ -1,0 +1,9 @@
+model/
+!model/README.md
+/__pycache__
+build/
+dist/model/
+!dist/model/README.md
+dist/The Machine.exe
+mxnet/libmxnet_static.lib
+*.rar

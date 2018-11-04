@@ -1,0 +1,8 @@
+('mxnet\\libgcc_s_seh-1.dll' ,'.'),
+('mxnet\\libgfortran-3.dll' ,'.'),
+('mxnet\\libmxnet.dll' ,'.'),
+('mxnet\\libmxnet.lib' ,'.'),
+('mxnet\\libmxnet_static.lib' ,'.'),
+('mxnet\\libquadmath-0.dll' ,'.'),
+('mxnet\\proc.py' ,'.'),
+('mxnet\\vcomp140.dll' ,'.'),
